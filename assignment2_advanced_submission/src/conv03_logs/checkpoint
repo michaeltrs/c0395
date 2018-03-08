@@ -1,0 +1,2 @@
+model_checkpoint_path: "/data/mat10/CO395/CW2/conv03_logs/conv03"
+all_model_checkpoint_paths: "/data/mat10/CO395/CW2/conv03_logs/conv03"
